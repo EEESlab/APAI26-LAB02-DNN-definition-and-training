@@ -24,7 +24,7 @@ Guidelines to work on today's assignment:
 2. Set up the environment, preferably on Google Colab, or locally in VS Code (see [Quickstart](#quickstart))
 3. Complete Tasks 1-6 in the [Jupyter notebook](./APAI26-LAB2-DNN-definition-and-training.ipynb)
 
-**AI policy:** we will not prevent you from using AI to solve the assignments, but the lab is meant to be a hands-on learning experience. Try to use AI tools as a guide towards finding the solution yourself, rather than as a source of direct solutions.
+**AI policy:** we will not prevent you from using AI to solve the assignments, but the lab is meant to be a hands-on learning experience. To keep it useful, this repository includes an [AGENTS.md](./AGENTS.md) file (also used in a Stanford class) that AI agents should read automatically, so that they guide you towards finding the solution yourself instead of giving it to you directly.
 
 ## How to deliver the assignment
 
